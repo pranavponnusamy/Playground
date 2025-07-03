@@ -1,0 +1,4 @@
+*.pth
+.pycache/
+wandb/
+Transformers/gpt2/__pycache__/
